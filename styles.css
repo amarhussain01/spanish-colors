@@ -1,0 +1,38 @@
+* {
+    text-align: center;
+
+}
+* {
+    background-color: #bf2173;
+}
+#red {
+    color: rgba(254, 6, 6, 0.742);
+}
+#blue {
+    color: blue;
+}
+#green {
+    color: green;
+}
+
+#orange {
+    color: orange;
+}
+
+#yellow {
+    color: yellow;
+}
+.color-title {
+    font-weight: small;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+h2 {
+    color: rgb(10, 81, 81);
+}
+h1 {
+    font-size: 100px;
+}
